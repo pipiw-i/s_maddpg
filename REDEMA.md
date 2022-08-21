@@ -1,0 +1,4 @@
+基于色块的maddpg内容
+运行new_mpe_train文件即可开始训练。
+奖励函数的设计在mpe文件夹内的scenarios中的simple_search内
+色块的设计是在environment内的render(self, mode='human', close=False)函数内
